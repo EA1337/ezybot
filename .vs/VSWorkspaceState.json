@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\commands",
+    "\\src\\core",
+    "\\src\\models"
+  ],
+  "SelectedNode": "\\src\\core\\setup-helper.ts",
+  "PreviewInSolutionExplorer": false
+}
